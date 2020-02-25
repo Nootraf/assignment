@@ -5,5 +5,5 @@ function incrementFartoon(x) {
     return splits[0] + one;
 } <
 undefined
-incrementFartoon('foo143');
-"foo144"
+incrementFartoon('foo14');
+"foo15"
